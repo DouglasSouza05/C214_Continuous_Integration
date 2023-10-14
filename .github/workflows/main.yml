@@ -18,6 +18,9 @@ jobs:
         with:
           node-version: "18.16.0" # Indica a versão do node a ser instalada
 
+      - name: Install Mocha
+        run: npm install -g mocha
+
       - name: Instalar dependências
         run: |
           cd DesafioTesteUnitario
