@@ -1,4 +1,4 @@
-[![Continuous Integration](https://github.com/Inatel-Classes/C214-CI_CD/actions/workflows/ci.yml/badge.svg)](https://github.com/Inatel-Classes/C214-CI_CD/actions/workflows/ci.yml)
+[![Continuous Integration](https://github.com/DouglasSouza05/C214_Continuous_Integration/blob/main/.github/workflows/main.yml/badge.svg)](https://github.com/DouglasSouza05/C214_Continuous_Integration/blob/main/.github/workflows/main.yml)
 
 # DesafioTesteUnitário
 
