@@ -1,3 +1,5 @@
+[![Continuous Integration](https://github.com/Inatel-Classes/C214-CI_CD/actions/workflows/ci.yml/badge.svg)](https://github.com/Inatel-Classes/C214-CI_CD/actions/workflows/ci.yml)
+
 # DesafioTesteUnitário
 
 Codigo da Aula 5 do Lab de C214, fazendo implementações de Testes Unitários usando funcionalidades da Calculadora de IMC vista em aula.

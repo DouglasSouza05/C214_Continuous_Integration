@@ -24,4 +24,6 @@ jobs:
           npm install
 
       - name: Executar testes
-        run: npm test # Executa os testes
+        run: |
+          cd DesafioTesteUnitario
+          npm test
